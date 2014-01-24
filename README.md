@@ -9,7 +9,7 @@ Dependencies
 ------------
 
 
-Other sources of information: 
+Other sources of information
 -----------------------------
 * The project is managed at https://github.com/rjminsha/CLMAutoDev 
 * Documentation and best practices for deployment and automation is avaiable on https://jazz.net/wiki/bin/view/Deployment/WebHome 
